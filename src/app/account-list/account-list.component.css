@@ -1,0 +1,18 @@
+.main-container {
+  box-shadow: 0px 0px 10px #888888;
+  border-radius: 5px;
+}
+
+.withdraw-button {
+  margin-right: 20px;
+}
+
+.account-list {
+  color: #cc0000;
+  padding: 15px;
+}
+
+
+.btn-withdraw{
+  border: 1px solid #dedede;
+}

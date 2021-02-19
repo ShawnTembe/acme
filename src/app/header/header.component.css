@@ -1,0 +1,8 @@
+.header-title {
+  font-size: 26px;
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #cc0000, #4d004d);
+  color: #fff;
+}
