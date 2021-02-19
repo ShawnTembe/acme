@@ -25,3 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Mock API Server
+Welcome to the quick prototyping and mocking api server for front-end developers. The mock api project uses Babel, ES2017+ features in a Node.js server environment, linting, testing solutions with JSON-Server.
+
+Getting started
+# Install dependencies
+npm install
+
+# or if you're using Yarn
+yarn
+Then you can begin development:
+
+# yarn
+yarn run dev
+
+# npm
+npm run dev
